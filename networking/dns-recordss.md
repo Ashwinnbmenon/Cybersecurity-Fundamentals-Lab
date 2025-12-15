@@ -10,3 +10,5 @@ Used for email servers.
 
 ## NS Record
 Shows the name servers of a domain.
+
+
