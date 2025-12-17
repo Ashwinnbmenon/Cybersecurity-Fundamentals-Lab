@@ -5,7 +5,7 @@
 # 💻 Cybersecurity Fundamentals Lab
 
 **My cybersecurity learning project**  
-Documenting my 5-month cybersecurity journey including networking, OSINT, security tools, and common cyber attacks.
+Documenting my 2-month cybersecurity journey including networking, OSINT, security tools, and common cyber attacks.
 
 ---
 
